@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Turtle Page</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f0f8ff;
+      text-align: center;
+    }
+
+    h1 {
+      color: #2e8b57;
+    }
+
+    .image-container {
+      margin-top: 20px;
+    }
+
+    img {
+      width: 300px;
+      height: auto;
+      border-radius: 10px;
+      box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    }
+  </style>
+</head>
+<body>
+  <h1>Welcome to the Turtle Page!</h1>
+  <p>Here is a picture of a cute turtle.</p>
+
+  <div class="image-container">
+    <img src="https://example.com/turtle.jpg" alt="Turtle">
+  </div>
+</body>
+</html>
